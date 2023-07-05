@@ -54,6 +54,117 @@ console.log("miNombre");
 Debe escribirse el texto miNombre.
 Al estar el texto entre comillas, el intérprete de JS entiende que eso es un texto literal.
 
+Ejecutar nodeJS para interpretar código Javascript.
+resultado de la ejecución de código Javascript en pantalla
+Declarar variables
+Operadores aritméticos de Javascript
+
+descargar los archivos del proyecto
+https://github.com/alura-es-cursos/1762-javascript-primeros-pasos-con-el-lenguaje
+
+realizamos un segundo programa
+JavaScript es un lenguaje sensible a mayúsculas y minúsculas
+
+BuenasPrácticas.js
+let nombreEmpleado = “José Pérez”; 
+let NombreEmpleado es igual a “Pedro Ramírez”.
+Para JavaScript no.
+
+lenguajes fuertemente tipados donde nosotros le indicamos el tipo de dato
+booleana, que es solo verdadero y falso, si yo coloco el espacio para eso, 
+él no me va a dejar colocar nada
+
+un lenguaje libre
+Simplemente yo le asigno un valor y él ya sabe que es un string.
+
+let edadEmpleado y decir 40; y él acá va a interpretar que es un número, entonces como es libre, 
+yo no tengo que definir el tipo de dato
+
+más adelante decir que edadEmpleado = “Cuarenta”; y vean que estoy 
+cambiando de dato numérico a dato alfanumérico y él lo va a aceptar
+
+es cómo ver los errores en JavaScript
+ReferenceError: edadEmpleados is not definided.
+nos dice la línea exacta donde tenemos que buscar para ayudarnos
+proyecto de agencia de viajes
+
+Teniendo en cuenta eso, ¿qué problema ve en el siguiente código?:
+
+const nombre = "Luis";
+const Apellido = "Rivas";
+const edadPadre = 30;
+const EdadMadre = 28;
+const añoDeNacimiento = 1980;
+
+El código no sigue las convenciones para la definición de nombres de variables.
+
+
+Falta seguir las convenciones y normas para la definición de nombres de variables. 
+Iniciar con letra minúscula, cada nueva palabra inicia con mayúscula y no usar caracteres especiales.
+
+conversion de tipo de datos;
+
+04-ConversiónTipos.js
+console.log de ese valor (nombrePasajero);
+odemos cambiar el const por el let y va a aceptarlo
+
+tasaEmbarque que serían 60
+o que agencia cobra por la ayuda, que sean 120.55
+
+Esas variables pueden venir en el código, pueden ser leídas desde 
+un punto externo, como una base de datos, como una entrada del usuario.
+
+Entonces porcentajeTasaEmbarque, por ejemplo, entonces sería 60/100, de esa manera colocamos el 60%
+totalBoleto = valorBoleto + valorBoleto*tasaEmbarque + gestiónAgencia.
+
+una resta y una multiplicación, o una resta y la división, es decir, niveles, 
+nosotros tenemos un orden de precedencia en ellos.
+
+Toda vez que declaramos una variable, estamos reservando espacio de memoria del computador.
+Sobreescribir el valor de una variable es cambiar el contenido de ella. Para eso necesitamos hacer uso del operador (=), 
+con el cual asignamos el nuevo valor que va a contener.
+
+Existen diferentes tipos de datos que podemos gestionar, tal como textos y números.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
