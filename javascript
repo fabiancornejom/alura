@@ -126,6 +126,34 @@ con el cual asignamos el nuevo valor que va a contener.
 
 Existen diferentes tipos de datos que podemos gestionar, tal como textos y números.
 
+https://github.com/alura-es-cursos/1762-javascript-primeros-pasos-con-el-lenguaje/tree/Aula3
+
+arreglos cuando tenemos múltiples elementos, que en general van a hacer del mismo tipo y hablamos bastante de ello.
+
+AND es &&, el OR es esto ǀǀ, dos palitos, y el NO es igual a !
+no cumple las reglas.
+
+if encadenados
+
+Correcto!!!, debemos usar las llaves para agrupar las instrucciones 
+que se van a ejecutar de acuerdo a la condición evaluada.
+
+const salario = "3300.0";
+
+if (salario < 2600.0) {
+console.log("Su alícuota es de 15%");
+console.log("Puede deducir del pago hasta 350 pesos");
+}
+
+if (salario < 3750.0) {
+console.log("Su alícuota es de 22.5%");
+console.log("Puede deducir del pago hasta 650 pesos");
+}
+
+operadores logicos encadenados
+(A && B ǀǀ C)
+
+
 
 
 
