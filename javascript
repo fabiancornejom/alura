@@ -153,6 +153,61 @@ console.log("Puede deducir del pago hasta 650 pesos");
 operadores logicos encadenados
 (A && B ǀǀ C)
 
+Correcto!!!, AND es representado por && y OR por ||.
+
+if (edadComprador >= 18 && edadComprador < 30) {
+
+}
+
+Lo que aprendimos en esta aula:
+
+If y else.
+Operadores lógicos. (<,<=,>,>=,==,!=).
+Ifs encadenados.
+else if.
+&& e ||.
+
+https://github.com/alura-es-cursos/1762-javascript-primeros-pasos-con-el-lenguaje/tree/Aula4
+
+repita mientras
+
+El lazo while necesita siempre de una expresión condicional 
+que define el punto en que el lazo será interrumpido.
+
+Así es. Todos los operadores lógicos y de comparación son válidos, 
+pues todos ellos se pueden usar en expresiones condicionales. 
+Recuerda que puedes combinarlos para validar condiciones complejas.
+
+depurar el codigo
+usar break;
+
+Al colocar un break en nuestro lazo, el interpretador entiende que deseamos
+romper el lazo y salir del bucle sin evaluar más nada.
+
+Como configurar el debugger en VSCode
+
+Lazo for
+Lazos o ciclos en Javascript
+
+https://github.com/alura-es-cursos/1762-javascript-primeros-pasos-con-el-lenguaje/tree/Aula5
+
+Lazos o bucles de repetición.
+Lazo mientras. While.
+Break para interrumpir un lazo.
+Depurando el código con VSCode.
+Ejecutando paso a paso el código.
+Configurar el depurador en VSCode.
+Lazo For.
+
+
+
+
+
+
+
+
+
+
 
 
 
