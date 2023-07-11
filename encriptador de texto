@@ -24,6 +24,19 @@ ingrese el texto = placeholder
 agregarle una clase
 agregar otro contenedor con un parrafo y una imagen dentro de la seccion
 agregar otro contenedor con un boton que diga adentro encriptar
+agregar otra seccion = seccion2
+agregar otro contenedor con la imagen del muñeco
+agregar otro contenerdor con un parrafo
+agregar otro contenedor con un boton que diga copiar
+agregar otro contenedor con un parrafo
+
+agregar los estilos.css
+agregar estilos generales = *{}
+quitar los margenes = margin:0
+quitar los rellenos = padding:0
+agregar una fuente : "inter" "sans-serif"
+agregar un cuerpo = body{}
+cambiarle el color del fondo = background
 
 
 
