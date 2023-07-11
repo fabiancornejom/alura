@@ -42,6 +42,21 @@ agregear el ancho y el alto de la cabecera
 agregar la posicion del logo
 agregar el relleno del logo en la parte de arriba = padding-top: 20px;
 agregar relleno en el lado izquierdo = padding-left: 40px;
+colocar en posicion absoluta el main lo que nos ayuda a que se pasen los margenes
+colocar el ancho para quede al medio el dibujo
+display: flex; para que los elementos se coloque al lado
+
+header{} = aca se mueve solo logo nada mas lo que 
+esta dentro del contenedor
+<header></header> = hay una imagen
+
+.logo{
+    colocar el ancho en % para mover la letra en la pantalla
+    si el ancho se coloca en pixeles cambiar el tamaño
+    padding top cambia el relleno desde arriba
+    padding agrega cambia el relleno desde donde quedo en la posicion izquiera
+}
+
 
 
 
