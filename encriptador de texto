@@ -38,7 +38,10 @@ agregar una fuente : "inter" "sans-serif"
 agregar un cuerpo = body{}
 cambiarle el color del fondo = background
 
-
+agregear el ancho y el alto de la cabecera
+agregar la posicion del logo
+agregar el relleno del logo en la parte de arriba = padding-top: 20px;
+agregar relleno en el lado izquierdo = padding-left: 40px;
 
 
 
