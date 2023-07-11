@@ -6,6 +6,16 @@ ir al visual studio code
 editar codigo
 abrir carpeta
 crear el index.html
-cambiar de ingles a español
+cambiar de ingles a español la pagina
 instalar el live server
 abrir en live server
+cambiar el titulo de la pagina
+colocar una cabecera = <header>
+dentro de la cabezera colocar una imagen
+colocarle un nombre descriptivo a la imagen = alt
+buscar la carpeta = /imagenes.logo.svg
+colocarle una clase a la imagen = class
+hacer una seccion llamada main = <main>
+
+
+
