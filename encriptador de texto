@@ -14,8 +14,18 @@ colocar una cabecera = <header>
 dentro de la cabezera colocar una imagen
 colocarle un nombre descriptivo a la imagen = alt
 buscar la carpeta = /imagenes.logo.svg
-colocarle una clase a la imagen = class
+crear una clase logo dentro de imagen
 hacer una seccion llamada main = <main>
+hacer un contenedor = div
+crear clases para cada uno
+agregar un area de texto = textarea
+agregar dentro de la caja de texto un mensaje que diga
+ingrese el texto = placeholder
+agregarle una clase
+agregar otro contenedor con un parrafo y una imagen dentro de la seccion
+agregar otro contenedor con un boton que diga adentro encriptar
+
+
 
 
 
