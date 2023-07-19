@@ -10,6 +10,14 @@ o ir actualizando la pagina
 ../img = significa retroceder dos niveles para acceder a la carpeta
 
 footer
+align-items: center; significa que se deberia alinear vertical
+
+ver el diseño final
+se necesita un diseño
+para poder realizar el css
+
+
+
 
 
 
